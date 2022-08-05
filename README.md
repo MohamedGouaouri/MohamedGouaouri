@@ -2,7 +2,7 @@
 Hello, I am Mohammed Dhiya Eddine Gouaouri a  Software Engineer, full stack web and android developer. I am involved a lot in software architecture stuff.
 I enjoy playing with code, learning, discovering new things and of course helping others.
 I'm a positive person, naturally curious, and hard-working to improve my technical and soft skills.
-Got any questions? [Contact me](im_gouaouri@esi.dz).
+Got any questions? [Contact me](mailto:im_gouaouri@esi.dz).
 ### Hello there 👋 
 
 - 🖥️ Currently a final year computer science student.
