@@ -6,7 +6,7 @@ Got any questions? [Contact me](mailto:im_gouaouri@esi.dz).
 ### About me 👋 
 
 - 📚 Currently a final year computer science student.
-- 👨‍💻 Loves Backend Web Development and android Development.
+- 👨‍💻 I'm currently working as Fullstack JS Web development instructor.
 - ✨ A BIG fan of Machine learning and artificial intelligence.
 - 💬 Ask me about anything, I'll be happy to help and share :D.
 
